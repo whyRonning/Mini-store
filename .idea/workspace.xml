@@ -1,0 +1,276 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="430b4324-4ef8-4556-9e04-dfe88bbffd83" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/cart.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Routes/main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/config/default.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/config/production.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/front/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/front/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/front/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/front/public/favic1on.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/front/public/favicon.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/front/public/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/front/public/logo192.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/front/public/logo193.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/front/public/logo512.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/front/public/logo513.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/front/public/manifest.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/front/public/robots.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/front/src.rar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/front/src/App.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/front/src/App.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/front/src/AppContainer.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/front/src/components/accets/fontAwesome.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/front/src/components/cart/cart.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/front/src/components/cart/cartContainer.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/front/src/components/cart/cartItem.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/front/src/components/cart/cartSelector.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/front/src/components/header/header.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/front/src/components/header/headerContainer.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/front/src/components/shop/NumOfPage.test.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/front/src/components/shop/NumOfPage.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/front/src/components/shop/ShopItem.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/front/src/components/shop/filter/filter.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/front/src/components/shop/filter/filterContainer.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/front/src/components/shop/filter/shopSelector.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/front/src/components/shop/shop.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/front/src/components/shop/shopContainer.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/front/src/index.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/front/src/index.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/front/src/logo.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/front/src/react-app-env.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/front/src/reportWebVitals.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/front/src/setupTests.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/front/src/store/cartReducer.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/front/src/store/shopReducer.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/front/src/store/store.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/front/tsconfig.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/front/yarn.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/models/cartItems.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yarn-error.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yarn.lock" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+        <option value="TypeScript JSX File" />
+        <option value="TypeScript File" />
+        <option value="CoffeeScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="PackageJsonUpdateNotifier">
+    <dismissed value="$PROJECT_DIR$/front/package.json" />
+  </component>
+  <component name="ProjectId" id="1r4Dv0Ce8uIrmygwM99tDpWns5j" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/front/public" />
+    <property name="nodejs.jest.jest_package" value="$PROJECT_DIR$/front/node_modules/react-scripts" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="project.propDebugger" />
+    <property name="ts.external.directory.path" value="C:\Users\Misha\Desktop\projects\cart\front\node_modules\typescript\lib" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Misha\Desktop\projects\cart\front\public" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Misha\Desktop\projects\cart\front\src\components\shop" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Jest.test numOfPage (1)">
+    <configuration name="AppTest" type="JavaScriptTestRunnerJest" temporary="true" nameIsGenerated="true">
+      <node-interpreter value="project" />
+      <node-options value="" />
+      <jest-package value="$PROJECT_DIR$/front/node_modules/react-scripts" />
+      <working-dir value="$PROJECT_DIR$/front" />
+      <envs />
+      <scope-kind value="SUITE" />
+      <test-file value="$PROJECT_DIR$/front/src/App.test.js" />
+      <test-names>
+        <test-name value="AppTest" />
+      </test-names>
+      <method v="2" />
+    </configuration>
+    <configuration name="AppTest.correct cart render" type="JavaScriptTestRunnerJest" temporary="true" nameIsGenerated="true">
+      <node-interpreter value="project" />
+      <node-options value="" />
+      <jest-package value="$PROJECT_DIR$/front/node_modules/react-scripts" />
+      <working-dir value="$PROJECT_DIR$/front" />
+      <envs />
+      <scope-kind value="TEST" />
+      <test-file value="$PROJECT_DIR$/front/src/App.test.js" />
+      <test-names>
+        <test-name value="AppTest" />
+        <test-name value="correct cart render" />
+      </test-names>
+      <method v="2" />
+    </configuration>
+    <configuration name="AppTest.correct shop render" type="JavaScriptTestRunnerJest" temporary="true" nameIsGenerated="true">
+      <node-interpreter value="project" />
+      <node-options value="" />
+      <jest-package value="$PROJECT_DIR$/front/node_modules/react-scripts" />
+      <working-dir value="$PROJECT_DIR$/front" />
+      <envs />
+      <scope-kind value="TEST" />
+      <test-file value="$PROJECT_DIR$/front/src/App.test.js" />
+      <test-names>
+        <test-name value="AppTest" />
+        <test-name value="correct shop render" />
+      </test-names>
+      <method v="2" />
+    </configuration>
+    <configuration name="test numOfPage (1)" type="JavaScriptTestRunnerJest" temporary="true" nameIsGenerated="true">
+      <node-interpreter value="project" />
+      <node-options value="" />
+      <jest-package value="$PROJECT_DIR$/front/node_modules/react-scripts" />
+      <working-dir value="$PROJECT_DIR$/front" />
+      <envs />
+      <scope-kind value="SUITE" />
+      <test-file value="$PROJECT_DIR$/front/src/components/shop/NumOfPage.test.tsx" />
+      <test-names>
+        <test-name value="test numOfPage" />
+      </test-names>
+      <method v="2" />
+    </configuration>
+    <configuration name="test numOfPage" type="JavaScriptTestRunnerJest" temporary="true" nameIsGenerated="true">
+      <node-interpreter value="project" />
+      <node-options value="" />
+      <jest-package value="$PROJECT_DIR$/front/node_modules/react-scripts" />
+      <working-dir value="$PROJECT_DIR$/front" />
+      <envs />
+      <scope-kind value="SUITE" />
+      <test-file value="$PROJECT_DIR$/front/src/components/shop/NumOfPage.test.ts" />
+      <test-names>
+        <test-name value="test numOfPage" />
+      </test-names>
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Jest.test numOfPage (1)" />
+        <item itemvalue="Jest.test numOfPage" />
+        <item itemvalue="Jest.AppTest" />
+        <item itemvalue="Jest.AppTest.correct cart render" />
+        <item itemvalue="Jest.AppTest.correct shop render" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="430b4324-4ef8-4556-9e04-dfe88bbffd83" name="Default Changelist" comment="" />
+      <created>1618226694477</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1618226694477</updated>
+      <workItem from="1618226696685" duration="11512000" />
+      <workItem from="1618304537104" duration="1383000" />
+      <workItem from="1618310175046" duration="6339000" />
+      <workItem from="1618316625646" duration="2136000" />
+      <workItem from="1618397132300" duration="13436000" />
+      <workItem from="1618481481343" duration="10825000" />
+      <workItem from="1618514966537" duration="1347000" />
+      <workItem from="1618575338774" duration="9330000" />
+      <workItem from="1618653905354" duration="10791000" />
+      <workItem from="1618678893983" duration="364000" />
+      <workItem from="1618828793861" duration="594000" />
+      <workItem from="1618852363596" duration="1337000" />
+      <workItem from="1618913511684" duration="1787000" />
+      <workItem from="1619183926466" duration="6889000" />
+      <workItem from="1619263110486" duration="12811000" />
+      <workItem from="1619347863306" duration="6747000" />
+      <workItem from="1619436069413" duration="20391000" />
+      <workItem from="1619521423814" duration="20034000" />
+      <workItem from="1619616958926" duration="13211000" />
+      <workItem from="1619699724130" duration="17479000" />
+      <workItem from="1619781701290" duration="12021000" />
+      <workItem from="1619870687945" duration="4429000" />
+      <workItem from="1619955228976" duration="16696000" />
+      <workItem from="1620119791013" duration="6364000" />
+      <workItem from="1620131894639" duration="9414000" />
+      <workItem from="1620216570508" duration="10774000" />
+      <workItem from="1620303961218" duration="13924000" />
+      <workItem from="1620385568546" duration="6447000" />
+      <workItem from="1620477436083" duration="3041000" />
+      <workItem from="1620649062506" duration="3408000" />
+      <workItem from="1620815614468" duration="1909000" />
+      <workItem from="1620828234004" duration="1777000" />
+      <workItem from="1620987585794" duration="3007000" />
+      <workItem from="1621173646709" duration="2178000" />
+      <workItem from="1621245790145" duration="915000" />
+      <workItem from="1621433099134" duration="1335000" />
+      <workItem from="1621596818319" duration="10000" />
+      <workItem from="1621851509026" duration="1665000" />
+      <workItem from="1622539549559" duration="395000" />
+      <workItem from="1626254812635" duration="11243000" />
+      <workItem from="1626340859557" duration="5015000" />
+      <workItem from="1626357392014" duration="7232000" />
+      <workItem from="1626430113613" duration="2767000" />
+      <workItem from="1626437515406" duration="9081000" />
+      <workItem from="1626693226872" duration="3282000" />
+      <workItem from="1626786695826" duration="201000" />
+      <workItem from="1626850491263" duration="5546000" />
+      <workItem from="1626953779629" duration="1068000" />
+      <workItem from="1627304661702" duration="1884000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+    <option name="exactExcludedFiles">
+      <list>
+        <option value="$PROJECT_DIR$/../form-generator/front/node_modules/wait-for-expect/lib/toBeInRangeMatcher.d.js" />
+        <option value="$PROJECT_DIR$/../form-generator/front/node_modules/wait-for-expect/lib/waitForExpect.spec.d.js" />
+        <option value="$PROJECT_DIR$/../form-generator/front/node_modules/wait-for-expect/lib/index.d.js" />
+      </list>
+    </option>
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
