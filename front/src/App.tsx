@@ -10,9 +10,9 @@ type props={
  export let App = (props:props) => {
      useEffect(()=>{
          props.getItems()
-/*setInterval(()=>{
+setInterval(()=>{
              props.getItems()
-         },2000)*/
+         },2000)
      })
 
     return (
